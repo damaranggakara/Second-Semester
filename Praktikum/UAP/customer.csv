@@ -1,0 +1,21 @@
+customer_id,customer_name,email,phone_number,city
+1,Alice,alice@example.com,555-1234,"New York"
+2,Bob,bob@example.com,555-5678,"Los Angeles"
+3,Charlie,charlie@example.com,555-8765,Chicago
+4,David,david@example.com,555-4321,Houston
+5,Eva,eva@example.com,555-6789,Phoenix
+6,Frank,frank@example.com,555-3456,Philadelphia
+7,Grace,grace@example.com,555-6543,"San Antonio"
+8,Hank,hank@example.com,555-2345,"San Diego"
+9,Ivy,ivy@example.com,555-5432,Dallas
+10,Jack,jack@example.com,555-7890,"San Jose"
+11,Kara,kara@example.com,555-9876,Austin
+12,Leo,leo@example.com,555-8765,Jacksonville
+13,Mia,mia@example.com,555-7654,"Fort Worth"
+14,Nina,nina@example.com,555-6543,Columbus
+15,Owen,owen@example.com,555-5432,Charlotte
+16,Paul,paul@example.com,555-4321,"San Francisco"
+17,Quinn,quinn@example.com,555-3210,Indianapolis
+18,Rose,rose@example.com,555-2109,Seattle
+19,Sam,sam@example.com,555-1098,Denver
+20,Tina,tina@example.com,555-0987,Washington

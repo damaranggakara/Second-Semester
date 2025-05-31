@@ -1,0 +1,21 @@
+product_id,product_name,category_id,price,stock
+1,Laptop,1,1200,50
+2,Smartphone,2,800,100
+3,Tablet,1,600,30
+4,Monitor,3,300,75
+5,Keyboard,4,50,200
+6,Mouse,4,25,300
+7,Printer,3,150,60
+8,Headphones,5,100,150
+9,Speaker,5,75,80
+10,Webcam,6,80,40
+11,Charger,2,20,250
+12,Router,6,120,90
+13,USB Drive,4,15,500
+14,External Hard Drive,1,100,60
+15,Projector,3,400,20
+16,Smartwatch,2,250,70
+17,Fitness Tracker,2,150,80
+18,Gaming Console,1,500,40
+19,VR Headset,5,200,30
+20,Drone,6,1000,10
